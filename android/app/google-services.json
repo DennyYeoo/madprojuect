@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152898809685",
+    "project_id": "healthwide-16903",
+    "storage_bucket": "healthwide-16903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152898809685:android:63a052229df928708049dc",
+        "android_client_info": {
+          "package_name": "com.dennyyeo.fprojecta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152898809685-nhi39f3vot6r3bf59qoeji58j98bmg9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPT3XaCJckMuGfUd5WalHLC-jgmcCJhM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152898809685-nhi39f3vot6r3bf59qoeji58j98bmg9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
